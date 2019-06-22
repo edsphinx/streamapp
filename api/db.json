@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "The best stream ever",
+      "userId": "100984969997740441388",
+      "id": 1
+    },
+    {
+      "title": "Another Great Stream",
+      "description": "A legendary stream",
+      "userId": "100984969997740441388",
+      "id": 2
+    },
+    {
+      "title": "Stream modified structure",
+      "description": "A new kind of stream",
+      "userId": "100984969997740441388",
+      "id": 3
+    },
+    {
+      "title": "Best ever ",
+      "description": "The greatest stream ever",
+      "userId": "100984969997740441388",
+      "id": 4
+    }
+  ]
+}
