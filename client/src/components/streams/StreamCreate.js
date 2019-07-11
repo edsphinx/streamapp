@@ -16,6 +16,6 @@ class StreamCreate extends React.Component {
             </div>
         );
     }
-};
+}
 
 export default connect(null, { createStream })(StreamCreate);
