@@ -1,0 +1,2 @@
+# streamapp
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/748c602cceef41108fe298440f8f6e44)](https://app.codacy.com/app/edsphinx/streamapp?utm_source=github.com&utm_medium=referral&utm_content=edsphinx/streamapp&utm_campaign=Badge_Grade_Dashboard)
