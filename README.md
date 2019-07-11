@@ -6,4 +6,3 @@ React/Redux Streaming App
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Streaming app for custom videocasts this inital version is working with OBS Desktop App to cast to the server.
-
