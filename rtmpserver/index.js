@@ -1,4 +1,4 @@
-const NodeMediaServer = require('node-media-server');
+const NodeMediaServer = require("node-media-server");
 
 const config = {
   rtmp: {
@@ -10,9 +10,9 @@ const config = {
   },
   http: {
     port: 8000,
-    allow_origin: '*'
+    allow_origin: "*"
   }
 };
 
-var nms = new NodeMediaServer(config)
+var nms = new NodeMediaServer(config);
 nms.run();
